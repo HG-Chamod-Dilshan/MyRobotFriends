@@ -5,9 +5,18 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background:linear-gradient(to right, rgb(3, 85, 51),rgb(4, 148, 28),rgb(44, 241, 4),green,rgb(2, 87, 75),rgb(2, 55, 68),rgb(0, 6, 7));
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.title {
+  text-align:center;
+  font-family:Garamond;
+  color:#000033;
+  background-color:#99FF99;
+
 }
